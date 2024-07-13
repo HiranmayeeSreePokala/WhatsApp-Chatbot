@@ -1,5 +1,4 @@
 # WhatsApp-Chatbot
-# WhatsApp Bot Integration using Twilio, Ngrok, and OpenAI
 
 ## Introduction
 
