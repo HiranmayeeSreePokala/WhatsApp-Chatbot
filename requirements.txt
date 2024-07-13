@@ -1,0 +1,7 @@
+1) OpenAI Account
+2) Ngrok
+3) Twillio Account 
+4) WhatsApp
+5) Flask framework
+6) CommandPrompt
+7) PyCharm community
