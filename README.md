@@ -6,10 +6,12 @@ This project aims to integrate a bot into WhatsApp using Twilio, Ngrok, and Open
 
 ## Prerequisites
 
-- **OpenAI Account**: To obtain API keys.
-- **Twilio Account**: To access WhatsApp and send queries.
-- **Ngrok**: To connect to the local server and Twilio.
-
+<div align="left">
+  <img alt="OpenAi API" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="Twilio API" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"/> 
+  <img alt="Ngrok" src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white"/>
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</div>
 ## Process
 
 1. **Write `app.py`**:
