@@ -12,7 +12,8 @@ This project aims to integrate a bot into WhatsApp using Twilio, Ngrok, and Open
   <img alt="Ngrok" src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white"/>
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </div>
-## Process
+
+## Working
 
 1. **Write `app.py`**:
    - Paste your OpenAI API keys in the code.
@@ -40,10 +41,10 @@ This project aims to integrate a bot into WhatsApp using Twilio, Ngrok, and Open
 API keys -> Code -> Ngrok -> Twilio -> WhatsApp
 ```
 
-## Benefits
+## Advantages
 
 - **Easy Access**: Interact with ChatGPT directly from WhatsApp.
-- **Secure**: Ensures a secure connection and data handling.
+- **Security**: Ensures a secure connection and data handling.
 - **Time Efficient**: Provides quick responses to user queries.
 
 ---
