@@ -18,7 +18,7 @@ This project aims to integrate a bot into WhatsApp using Twilio, Ngrok, and Open
 1. **Write `app.py`**:
    - Paste your OpenAI API keys in the code.
 2. **Run the code**:
-   - Obtain the server URL (e.g., `https://127.0.0.1`, copy `127.0.0.1`).
+   - Obtain the server URL (e.g., `https://127.0.0.1`).
 3. **Configure Ngrok**:
    - Paste the server URL in the command: `ngrok http 127.0.0.1`.
    - Copy the forwarding URL provided by Ngrok.
